@@ -1,0 +1,218 @@
+{
+    "easy": {
+        "common": [
+            {
+                "title": "Ollie",
+                "subtitle": "One of the first tricks to learn. The keystone of skateboarding, essential for linking other tricks. Practice your Ollie to build confidence and improve your skills."
+            },
+            {
+                "title": "FS 180 Ollie",
+                "subtitle": "A 180-degree spin while performing an Ollie. Rotate your body and board in the frontside direction."
+            },
+            {
+                "title": "BS 180 Ollie",
+                "subtitle": "Similar to the FS 180 Ollie but spinning in the backside direction."
+            },
+            {
+                "title": "Fakie FS 180 Ollie",
+                "subtitle": "Perform a 180-degree spin while riding in the fakie stance (opposite direction)."
+            },
+            {
+                "title": "Boneless",
+                "subtitle": "Grab the board with your hand and jump off the ground. A fun and stylish trick."
+            },
+            {
+                "title": "Shuvit",
+                "subtitle": "Rotate the board 180 degrees without popping it. A basic trick to add to your repertoire."
+            },
+            {
+                "title": "Pop Shuvit",
+                "subtitle": "Similar to the Shuvit, but with a pop. Practice timing and coordination."
+            },
+            {
+                "title": "FS Pop Shuvit",
+                "subtitle": "A frontside pop shuvit. Spin the board while popping it off the ground."
+            },
+            {
+                "title": "Manual",
+                "subtitle": "Balance on two wheels without touching the ground. Requires control and stability."
+            },
+            {
+                "title": "FS 50-50",
+                "subtitle": "Slide along a rail or ledge with both trucks. A fundamental grind trick."
+            }
+        ]
+    },
+    "medium": {
+        "frontside": [
+            {
+                "title": "FS 180",
+                "subtitle": "The skater rotates the board 180 degrees in the air while turning their body frontside."
+            },
+            {
+                "title": "FS Pop Shove-it",
+                "subtitle": "The skateboarder uses their front foot to spin the board 180 degrees horizontally while jumping."
+            },
+            {
+                "title": "FS 360 Ollie",
+                "subtitle": "A full 360-degree rotation of the skateboard while performing an ollie (jump)."
+            },
+            {
+                "title": "FS Boardslide",
+                "subtitle": "Sliding along a rail or ledge with the board perpendicular to the obstacle, facing frontside."
+            },
+            {
+                "title": "FS Feeble Grind",
+                "subtitle": "Grinding on a rail or ledge with the back truck while the front truck hangs over the edge."
+            },
+            {
+                "title": "FS Smith Grind",
+                "subtitle": "Similar to the feeble grind, but the front truck grinds while the back truck hangs over the edge."
+            },
+            {
+                "title": "FS Nosegrind",
+                "subtitle": "Grinding on the front truck while the tail of the board is lifted off the obstacle."
+            },
+            {
+                "title": "FS 50-50 Grind",
+                "subtitle": "Balancing on both trucks while grinding along a rail or ledge."
+            },
+            {
+                "title": "FS Kickturn",
+                "subtitle": "A quick 180-degree turn on the skateboard's front wheels while riding."
+            },
+            {
+                "title": "FS Boneless",
+                "subtitle": "A trick where the skater removes their front foot, grabs the board, and jumps off the ground."
+            }
+        ],
+        "backside": [
+            {
+                "title": "BS 180",
+                "subtitle": "The skater rotates the board 180 degrees in the air while turning their body backside."
+            },
+            {
+                "title": "BS Pop Shove-it",
+                "subtitle": "The skateboarder uses their back foot to spin the board 180 degrees horizontally while jumping."
+            },
+            {
+                "title": "BS 360 Ollie",
+                "subtitle": "A full 360-degree rotation of the skateboard while performing an ollie (jump) in the backside direction."
+            },
+            {
+                "title": "BS Boardslide",
+                "subtitle": "Sliding along a rail or ledge with the board perpendicular to the obstacle, facing backside."
+            },
+            {
+                "title": "BS Tailslide",
+                "subtitle": "Grinding on the tail of the skateboard while sliding along a rail or ledge."
+            },
+            {
+                "title": "BS Lipslide",
+                "subtitle": "Similar to the tailslide, but the skateboarder grinds on the side of the board (lip) instead of the tail."
+            },
+            {
+                "title": "BS Nosegrind",
+                "subtitle": "Grinding on the front truck while the tail of the board is lifted off the obstacle, backside style."
+            },
+            {
+                "title": "BS 50-50 Grind",
+                "subtitle": "Balancing on both trucks while grinding along a rail or ledge, facing backside."
+            },
+            {
+                "title": "BS Revert",
+                "subtitle": "A quick 180-degree turn on the skateboard's back wheels while riding, rotating backside."
+            },
+            {
+                "title": "BS Boneless",
+                "subtitle": "A trick where the skater removes their back foot, grabs the board, and jumps off the ground, backside style."
+            }
+        ]
+    },
+    "hard": {
+        "frontside": [
+            {
+                "title": "FS Flip",
+                "subtitle": "A kickflip performed while rotating the board frontside (180 or 360 degrees). Requires precise footwork and timing."
+            },
+            {
+                "title": "FS 360 Flip",
+                "subtitle": "A combination of a 360-degree spin and a kickflip, resulting in a full rotation while flipping the board."
+            },
+            {
+                "title": "FS Bluntslide",
+                "subtitle": "Grinding on the tail of the skateboard while sliding along a rail or ledge, frontside."
+            },
+            {
+                "title": "FS Bigspin",
+                "subtitle": "A 360-degree spin of the board while simultaneously performing a frontside shove-it."
+            },
+            {
+                "title": "FS Feeble to Fakie",
+                "subtitle": "Grinding on a rail or ledge with the back truck, then transitioning into a fakie stance (riding backward)."
+            },
+            {
+                "title": "FS Hurricane",
+                "subtitle": "A variation of the boardslide where the skateboarder grinds on the side of the board (lip) while rotating frontside."
+            },
+            {
+                "title": "FS Inward Heelflip",
+                "subtitle": "An inward heelflip performed while rotating frontside. Requires precise flick and catch."
+            },
+            {
+                "title": "FS Noseblunt",
+                "subtitle": "Grinding on the front truck with the tail lifted off the obstacle, frontside style."
+            },
+            {
+                "title": "FS 540",
+                "subtitle": "A challenging aerial trick involving a 540-degree spin while grabbing the board."
+            },
+            {
+                "title": "FS Nollie Heelflip",
+                "subtitle": "A nollie heelflip performed frontside (from the nose of the board). Requires quick footwork."
+            }
+        ],
+        "backside": [
+            {
+                "title": "BS Flip",
+                "subtitle": "A kickflip performed while rotating the board backside (180 or 360 degrees). Requires precise footwork and timing."
+            },
+            {
+                "title": "BS 360 Flip",
+                "subtitle": "A combination of a 360-degree spin and a kickflip, resulting in a full rotation while flipping the board."
+            },
+            {
+                "title": "BS Bluntslide",
+                "subtitle": "Grinding on the tail of the skateboard while sliding along a rail or ledge, backside."
+            },
+            {
+                "title": "BS Bigspin",
+                "subtitle": "A 360-degree spin of the board while simultaneously performing a backside shove-it."
+            },
+            {
+                "title": "BS Feeble to Fakie",
+                "subtitle": "Grinding on a rail or ledge with the back truck, then transitioning into a fakie stance (riding backward)."
+            },
+            {
+                "title": "BS Hurricane",
+                "subtitle": "A variation of the boardslide where the skateboarder grinds on the side of the board (lip) while rotating backside."
+            },
+            {
+                "title": "BS Inward Heelflip",
+                "subtitle": "An inward heelflip performed while rotating backside. Requires precise flick and catch."
+            },
+            {
+                "title": "BS Noseblunt",
+                "subtitle": "Grinding on the front truck with the tail lifted off the obstacle, backside style."
+            },
+            {
+                "title": "BS 540",
+                "subtitle": "A challenging aerial trick involving a 540-degree spin while grabbing the board."
+            },
+            {
+                "title": "BS Nollie Heelflip",
+                "subtitle": "A nollie heelflip performed backside (from the nose of the board). Requires quick footwork."
+            }
+        ]
+    }
+}
