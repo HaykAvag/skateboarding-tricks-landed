@@ -1,10 +1,10 @@
 # skateboarding-tricks-landed
 
 This is a tool that helps you count how many skateboarding tricks you've landed.
-It has easy, medium, and hard skateboarding tricks, with opposing frontside and backside tricks.
+It has easy, medium, and hard skateboarding tricks, with opposing Frontside and Backside tricks.
 
 This tool was made with Vue.js, TypeScript, Vuetify, Zod and Vite.
-It has CI/CD and automatically deploys to GitHub Pages when main branch is changed.
+It has CI/CD and automatically deploys to GitHub Pages using GitHub Actions when main branch is changed.
 
 ## Project setup
 
